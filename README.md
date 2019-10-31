@@ -1,4 +1,4 @@
-#Clustering-with-genetic-Algo
+Clustering-with-genetic-Algo
 Works finer than standard K-Means/K-Means++ 
 
 
@@ -24,3 +24,10 @@ Silhouette_score: It is a mathematical function often used to rate a cluster con
                   +1 denotes it is the best ofcourse only possible if all points in a cluster coincide.
                   
                   more @ https://en.wikipedia.org/wiki/Silhouette_(clustering)
+
+
+
+
+
+
+related paperwork @ https://www.sciencedirect.com/science/article/pii/0167865596000438
